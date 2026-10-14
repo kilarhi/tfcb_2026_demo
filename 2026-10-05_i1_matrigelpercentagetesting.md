@@ -24,7 +24,7 @@
 ## Results
 |<img width="2100" height="1500" alt="RR2_SpheroidSize_D2" src="https://github.com/user-attachments/assets/48891fea-36a9-49e1-a9d8-846c73b3653b" /> |
 ---
-/Users/rhiannon/Documents/repository/tfcb_2026_demo/experiments/img/RR2_SpheroidSize_D2.png
+/tfcb_2026_demo/experiments/img/RR2_SpheroidSize_D2.png
 
 
 
